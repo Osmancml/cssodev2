@@ -1,0 +1,43 @@
+.img {
+    width: 350px;
+    height: 120px;
+    margin: auto;   
+    
+}
+#search {
+    
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    background-color: #eeeeeeba;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+    
+    border-width: 10px;
+}
+
+.box1 {
+    background-color: #80efe4;
+    width: 42%;
+    text-align: center;
+}
+
+.box2 {
+    background-color: #5bc5b9;
+    text-align: center;
+}
+
+.box3 {
+    background-color: #55aca2;
+    text-align: center;
+    width: 42%;
+}
+
+#cop {
+    text-align: center;
+    font-size: 14px;
+    margin: 20px;
+}
